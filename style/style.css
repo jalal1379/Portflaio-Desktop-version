@@ -463,7 +463,6 @@ body {
   margin-top: -15rem;
 }
 
-
 .contact_me .contact_btn {
   margin: auto;
   width: 8rem;
@@ -526,7 +525,6 @@ body {
   flex-direction: column;
   gap: 20px;
   outline: none;
-  
 }
 
 .contact_me .inputs .input1 {
@@ -560,8 +558,6 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
- 
-
   .header .menu .fa {
     display: block;
     font-size: 1.5rem;
@@ -718,7 +714,6 @@ body {
   .languages .lan_arrow h5 {
     font-size: 3rem;
   }
-  
 
   .about_work .fas {
     font-size: 2rem;
