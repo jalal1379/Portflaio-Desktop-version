@@ -460,7 +460,7 @@ body {
 }
 
 .contact {
-  margin-top: -22rem;
+  margin-top: -15rem;
 }
 
 .contact_me .contact_btn {
@@ -496,6 +496,7 @@ body {
   flex-direction: column;
   align-items: center;
   height: 50rem;
+  margin-top: -3rem;
 }
 
 .contact .contact_me h6 {
@@ -528,6 +529,8 @@ body {
 
 .contact_me .inputs .input1 {
   padding: 0.6rem 10rem 0.6rem 0.6rem;
+  border-radius: 8px;
+  outline: none;
 }
 
 .input1::placeholder {
@@ -551,13 +554,10 @@ body {
 .inputs .text {
   outline: none;
   padding-bottom: 5rem;
+  border-radius: 8px;
 }
 
 @media only screen and (max-width: 768px) {
-  .container {
-    max-width: 540px;
-  }
-
   .header .menu .fa {
     display: block;
     font-size: 1.5rem;
